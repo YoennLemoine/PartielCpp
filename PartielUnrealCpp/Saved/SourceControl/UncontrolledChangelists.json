@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/FirstPerson/Blueprints/UW_ScoreDisplay.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/B6/0DLH99TNL22CZJ2FLS3SCI.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/BP_A_CollectableObjectClass.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/WK/9R19IPW9NVYKKA2E04ZJS3.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1E/LHKDU69D1G899B527RTUPD.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MG/DHRFW8XZNH1J4V3WGPDHHZ.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/FirstPerson/Blueprints/UW_GameOver.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/NA/WNPPG8SBUM0GTRUNY3XCNP.uasset",
+				"C:/Users/ylemoine/Documents/Unreal Projects/PartielUnrealCpp/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YE/25F0TPTA252D5VBC92YR8G.uasset"
+			]
+		}
+	]
+}

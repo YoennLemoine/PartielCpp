@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ylemoine\\Documents\\Unreal Projects\\PartielUnrealCpp\\Source\\PartielUnrealCpp\\PartielUnrealCpp.Build.cs",
+		"C:\\Users\\ylemoine\\Documents\\Unreal Projects\\PartielUnrealCpp\\Source\\PartielUnrealCpp.Target.cs",
+		"C:\\Users\\ylemoine\\Documents\\Unreal Projects\\PartielUnrealCpp\\Source\\PartielUnrealCppEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PartielUnrealCpp",
+			"Path": "..\\Source\\PartielUnrealCpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PartielUnrealCppEditor",
+			"Path": "..\\Source\\PartielUnrealCppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

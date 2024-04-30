@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ylemoine\\documents\\unreal projects\\partielunrealcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\partielunrealcpp\\uht\\partielunrealcppprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ylemoine\\documents\\unreal projects\\partielunrealcpp\\intermediate\\build\\win64\\x64\\partielunrealcppeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ylemoine\\documents\\unreal projects\\partielunrealcpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\partielunrealcpp\\definitions.partielunrealcpp.h",
+            "c:\\users\\ylemoine\\documents\\unreal projects\\partielunrealcpp\\source\\partielunrealcpp\\partielunrealcppprojectile.h",
+            "c:\\users\\ylemoine\\documents\\unreal projects\\partielunrealcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\partielunrealcpp\\uht\\partielunrealcppprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

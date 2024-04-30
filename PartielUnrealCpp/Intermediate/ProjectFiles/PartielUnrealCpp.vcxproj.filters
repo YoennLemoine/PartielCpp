@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PartielUnrealCpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PartielUnrealCpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PartielUnrealCppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PartielUnrealCpp">
+      <UniqueIdentifier>{2D5CBFD8-34A5-3296-8A67-C86F9785A5D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PartielUnrealCpp\PartielUnrealCpp.Build.cs">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\PartielUnrealCpp.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\PartielUnrealCpp.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppCharacter.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppCharacter.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppGameMode.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppGameMode.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppPlayerController.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppPlayerController.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppProjectile.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\PartielUnrealCppProjectile.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\TP_PickUpComponent.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\TP_PickUpComponent.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\TP_WeaponComponent.cpp">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\TP_WeaponComponent.h">
+      <Filter>Source\PartielUnrealCpp</Filter>
+    </ClInclude>
+    <Filter Include="Source\PartielUnrealCpp\Private">
+      <UniqueIdentifier>{9397D82A-AD66-3118-A4E6-175D4897DEE5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PartielUnrealCpp\Private\A_CollectableObjectClass.cpp">
+      <Filter>Source\PartielUnrealCpp\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\PartielUnrealCpp\Public">
+      <UniqueIdentifier>{36C992D3-4AC5-3F53-9109-481805FC31EE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PartielUnrealCpp\Public\A_CollectableObjectClass.h">
+      <Filter>Source\PartielUnrealCpp\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
